@@ -1,0 +1,1 @@
+This script uses google to find the first synonym of a word to evade plagarism checkers.
